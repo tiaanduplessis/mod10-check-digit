@@ -64,6 +64,8 @@
 
 ## Install
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/mod10-check-digit.svg)](https://greenkeeper.io/)
+
 ```sh
 $ npm install --save mod10-check-digit
 # OR
