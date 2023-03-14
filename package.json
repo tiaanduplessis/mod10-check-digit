@@ -4,6 +4,7 @@
   "description": "Calculate the check digit(mod10 algorithm)",
   "license": "MIT",
   "main": "index.js",
+  "types": "./index.d.ts",
   "repository": {
     "type": "git",
     "url": "https://github.com/tiaanduplessis/mod10-check-digit.git"
